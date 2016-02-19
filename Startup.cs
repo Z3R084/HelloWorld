@@ -28,6 +28,7 @@ namespace HelloWorld
         {
             // Add framework services.
             services.AddMvc();
+            //hallo 
             //services.AddKendo();
         }
 
